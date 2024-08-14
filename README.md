@@ -4,7 +4,7 @@
 
 git config --global user.name "kim-sangyong" = 깃허브 사용자 이름
 
-git config --global user.email "sdragon0416@gmail.com" = 내 gmail 이메일
+git config --global user.email "내 이메일 넣기" = 내 gmail 이메일
 
 
 git init = 루트 폴더에 git 폴더 생성
@@ -22,6 +22,8 @@ git push -u origin master  = 마스터 브랜치에 업로드가 됨(push)
 
 * master 브랜치에 프로젝트가 업로드가 되고 main 브렌치로 프로젝트를 올리고 싶을때 *
 master 브렌치에서 main 브렌치로 전환??
+
+git branch = 내 브렌치 명 확인
 
 git checkout master
 
