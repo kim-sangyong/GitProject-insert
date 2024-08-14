@@ -13,8 +13,6 @@ git status = 파일 목록 확인
 git commit -m  " 커밋할 내용 " = 커밋할 내용 적으면됨
 
 git remote add origin " 내 https 깃 주소 " = 내 https 깃 주소 적으면 됨
-=> 다른 블로그들을 보면 https:/~~~~.git 으로 url이 되어 있지만 그렇게 되어 있지 않은 사람들은 당황하지 않아도 된다.
-=> git init 으로 git 파일을 생성 후 https 복사 -> 터미널창에 shift+insert(붙혀넣기)를 하면 url 뒤에 .git이 붙혀져 있다.
 
 git push -u origin master  = 마스터 브랜치에 업로드가 됨(push)
 
