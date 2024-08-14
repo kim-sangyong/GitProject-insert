@@ -9,6 +9,7 @@ git config --global user.email "내 이메일 넣기" = 내 gmail 이메일
 
 git init = 루트 폴더에 git 폴더 생성
 git add . = 내 프로젝트 모든 파일 업로드
+
 => 꼭 add 뒤에 띄어쓰기 후 . 붙혀야함
 
 git status = 파일 목록 확인
